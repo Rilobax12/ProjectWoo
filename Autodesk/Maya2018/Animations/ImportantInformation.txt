@@ -1,0 +1,13 @@
+FIRE RATE:
+
+1-1-1
+
+SCALE:
+
+X = 9
+Y = 9
+Z = 9
+
+To Save Imported Animations:
+
+cmds.[file name](save = True, type = "mayaBinary", force = True, prompt = True)
